@@ -28,13 +28,17 @@ CREATE DATABASE violetaflow;
 ```bash
 cd backend
 npm install
+node server.js
+✅ O servidor estará rodando em `http://localhost:3001`
+
 ```
 
 ### 3️⃣ Frontend
 ```bash
 cd frontend
 npm install
-npm run dev
+npm start
+✅ A aplicação estará disponível em `http://localhost:5173`
 ```
 
 Crie o arquivo `.env` na raiz do backend:
@@ -46,19 +50,6 @@ DB_NAME=violetaflow
 JWT_SECRET=sua_chave_secreta
 PORT=3001
 ```
-
-Inicie o servidor:
-```bash
-npm run dev
-```
-
-✅ O servidor estará rodando em `http://localhost:3001`
-
----
-
-✅ A aplicação estará disponível em `http://localhost:5173`
-
----
 
 ## ✨ Funcionalidades
 
