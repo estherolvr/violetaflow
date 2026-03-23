@@ -60,38 +60,6 @@ npm run dev
 
 ---
 
-## 📁 Estrutura do Projeto
-```
-violetaflow/
-├── backend/
-│   ├── config/
-│   │   └── database.js
-│   ├── controllers/
-│   │   ├── authController.js
-│   │   ├── eventosController.js
-│   │   └── tarefasController.js
-│   ├── middlewares/
-│   │   └── authMiddleware.js
-│   ├── routes/
-│   │   ├── authRoutes.js
-│   │   ├── eventosRoutes.js
-│   │   └── tarefasRoutes.js
-│   ├── .env
-│   └── server.js
-└── frontend/
-    ├── src/
-    │   ├── components/
-    │   │   ├── Calendario.jsx
-    │   │   └── Kanban.jsx
-    │   ├── pages/
-    │   │   └── Dashboard.jsx
-    │   └── services/
-    │       └── api.js
-    └── index.html
-```
-
----
-
 ## ✨ Funcionalidades
 
 - 🔐 Login e cadastro com autenticação JWT
@@ -102,22 +70,3 @@ violetaflow/
 
 ---
 
-## 🔗 Endpoints da API
-
-| Método | Rota | Descrição |
-|--------|------|-----------|
-| POST | `/api/auth/login` | Login do usuário |
-| POST | `/api/auth/cadastro` | Cadastro de novo usuário |
-| GET | `/api/eventos` | Listar eventos |
-| POST | `/api/eventos` | Criar evento |
-| PUT | `/api/eventos/:id` | Editar evento |
-| DELETE | `/api/eventos/:id` | Deletar evento |
-| GET | `/api/tarefas` | Listar tarefas |
-| POST | `/api/tarefas` | Criar tarefa |
-| PUT | `/api/tarefas/:id` | Editar tarefa |
-| PATCH | `/api/tarefas/:id/mover` | Mover tarefa entre colunas |
-| DELETE | `/api/tarefas/:id` | Deletar tarefa |
-
----
-
-## 👩‍💻 Desenvolvido com 💜 para estudantes universitários
