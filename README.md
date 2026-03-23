@@ -1,4 +1,4 @@
-# 🌸 VioletaFlow - Agenda Digital
+# 📅 VioletaFlow - Agenda Digital
 
 Sistema de agenda digital para estudantes universitários, com calendário mensal, quadro Kanban e autenticação segura.
 
