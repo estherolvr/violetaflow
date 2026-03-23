@@ -61,3 +61,17 @@ PORT=3001
 
 ---
 
+### 📊 Resumo Conceitos Aplicados
+
+| Categoria | Padrão | Localização |
+|-----------|--------|-------------|
+| Criacional | Singleton | `config/database.js` |
+| Criacional | Factory Method | `authController.js`, `Kanban.jsx` |
+| Criacional | Builder | `Kanban.jsx` |
+| Estrutural | Adapter | `Calendario.jsx` |
+| Estrutural | Facade | `services/api.js` |
+| Comportamental | Observer | `useEffect` hooks |
+| Comportamental | Command | Ações de CRUD |
+
+---
+
