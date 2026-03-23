@@ -30,6 +30,13 @@ cd backend
 npm install
 ```
 
+### 3️⃣ Frontend
+```bash
+cd frontend
+npm install
+npm run dev
+```
+
 Crie o arquivo `.env` na raiz do backend:
 ```env
 DB_HOST=localhost
@@ -48,13 +55,6 @@ npm run dev
 ✅ O servidor estará rodando em `http://localhost:3001`
 
 ---
-
-### 3️⃣ Frontend
-```bash
-cd frontend
-npm install
-npm run dev
-```
 
 ✅ A aplicação estará disponível em `http://localhost:5173`
 
