@@ -6,10 +6,15 @@ Sistema de agenda digital para estudantes universitários, com calendário mensa
   <img src="images/dashbord.png" alt="Dashboard Global Cannoli" width="1000">
 </p>
 
-<h1 align="center">
+<p align="center">
+  <img src="images/dashbord.png" alt="Dashboard Global Cannoli" width="1000">
+</p>
+
+<h3 align="center">
   <a href="https://frontend-cannoli.vercel.app/" target="_blank">
-    👉 CLIQUE AQUI PARA ACESSAR A APLICAÇÃO 👈
+    👉 Clique aqui para acessar a aplicação
   </a>
+</h3>
 </h1>
 ---
 
