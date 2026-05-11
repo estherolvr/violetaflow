@@ -2,19 +2,6 @@
 
 Sistema de agenda digital para estudantes universitários, com calendário mensal, quadro Kanban e autenticação segura.
 
-<p align="center">
-  <img src="images/dashbord.png" alt="Dashboard Global Cannoli" width="1000">
-</p>
-
-<p align="center">
-  <img src="images/dashbord.png" alt="Dashboard Global Cannoli" width="1000">
-</p>
-
-<h3 align="center">
-  <a href="https://frontend-cannoli.vercel.app/" target="_blank">
-    👉 Clique aqui para acessar a aplicação
-  </a>
-</h3>
 </h1>
 ---
 
